@@ -1,0 +1,10 @@
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\bin\Debug\11GuessAWord.exe.config
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\bin\Debug\11GuessAWord.exe
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\bin\Debug\11GuessAWord.pdb
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\GuessAWord.FormMain.resources
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\GuessAWord.Properties.Resources.resources
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\11GuessAWord.csproj.GenerateResource.cache
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\11GuessAWord.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\11GuessAWord.exe
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\11GuessAWord.pdb
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\11GuessAWord.csprojAssemblyReference.cache

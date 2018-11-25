@@ -1,0 +1,10 @@
+Z:\Ridgewater C#\0807Averages\0807Averages\bin\Debug\netcoreapp2.1\0807Averages.deps.json
+Z:\Ridgewater C#\0807Averages\0807Averages\bin\Debug\netcoreapp2.1\0807Averages.runtimeconfig.json
+Z:\Ridgewater C#\0807Averages\0807Averages\bin\Debug\netcoreapp2.1\0807Averages.runtimeconfig.dev.json
+Z:\Ridgewater C#\0807Averages\0807Averages\bin\Debug\netcoreapp2.1\0807Averages.dll
+Z:\Ridgewater C#\0807Averages\0807Averages\bin\Debug\netcoreapp2.1\0807Averages.pdb
+Z:\Ridgewater C#\0807Averages\0807Averages\obj\Debug\netcoreapp2.1\0807Averages.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\0807Averages\0807Averages\obj\Debug\netcoreapp2.1\0807Averages.AssemblyInfoInputs.cache
+Z:\Ridgewater C#\0807Averages\0807Averages\obj\Debug\netcoreapp2.1\0807Averages.AssemblyInfo.cs
+Z:\Ridgewater C#\0807Averages\0807Averages\obj\Debug\netcoreapp2.1\0807Averages.dll
+Z:\Ridgewater C#\0807Averages\0807Averages\obj\Debug\netcoreapp2.1\0807Averages.pdb

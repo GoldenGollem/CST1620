@@ -1,0 +1,9 @@
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\bin\Release\11GuessAWord.exe.config
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\bin\Release\11GuessAWord.exe
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\bin\Release\11GuessAWord.pdb
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Release\GuessAWord.FormMain.resources
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Release\GuessAWord.Properties.Resources.resources
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Release\11GuessAWord.csproj.GenerateResource.cache
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Release\11GuessAWord.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Release\11GuessAWord.exe
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Release\11GuessAWord.pdb

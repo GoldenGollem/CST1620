@@ -1,0 +1,10 @@
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\bin\Debug\07SentenceGeneration.exe.config
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\bin\Debug\07SentenceGeneration.exe
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\bin\Debug\07SentenceGeneration.pdb
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\obj\Debug\07SentenceGeneration.csprojAssemblyReference.cache
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\obj\Debug\_07SentenceGeneration.FrmMain.resources
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\obj\Debug\_07SentenceGeneration.Properties.Resources.resources
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\obj\Debug\07SentenceGeneration.csproj.GenerateResource.cache
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\obj\Debug\07SentenceGeneration.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\obj\Debug\07SentenceGeneration.exe
+Z:\Ridgewater C#\07SentenceGeneration\07SentenceGeneration\obj\Debug\07SentenceGeneration.pdb

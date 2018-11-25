@@ -1,0 +1,10 @@
+Z:\Ridgewater C#\11FractionMath\09FractionMath\bin\Release\11AdvFractionMath.exe.config
+Z:\Ridgewater C#\11FractionMath\09FractionMath\bin\Release\11AdvFractionMath.exe
+Z:\Ridgewater C#\11FractionMath\09FractionMath\bin\Release\11AdvFractionMath.pdb
+Z:\Ridgewater C#\11FractionMath\09FractionMath\obj\Release\11AdvFractionMath.csprojAssemblyReference.cache
+Z:\Ridgewater C#\11FractionMath\09FractionMath\obj\Release\AvdFractionMath.FormMain.resources
+Z:\Ridgewater C#\11FractionMath\09FractionMath\obj\Release\AdvFractionMath.Properties.Resources.resources
+Z:\Ridgewater C#\11FractionMath\09FractionMath\obj\Release\11AdvFractionMath.csproj.GenerateResource.cache
+Z:\Ridgewater C#\11FractionMath\09FractionMath\obj\Release\11AdvFractionMath.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\11FractionMath\09FractionMath\obj\Release\11AdvFractionMath.exe
+Z:\Ridgewater C#\11FractionMath\09FractionMath\obj\Release\11AdvFractionMath.pdb

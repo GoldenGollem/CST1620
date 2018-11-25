@@ -1,0 +1,15 @@
+a:\RW\0610GuessAWord\0610GuessAWord\bin\Debug\0610GuessAWord.exe.config
+a:\RW\0610GuessAWord\0610GuessAWord\bin\Debug\0610GuessAWord.exe
+a:\RW\0610GuessAWord\0610GuessAWord\bin\Debug\0610GuessAWord.pdb
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.csprojAssemblyReference.cache
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Debug\_0610GuessAWord.FormMain.resources
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Debug\_0610GuessAWord.Properties.Resources.resources
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.csproj.GenerateResource.cache
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.csproj.CoreCompileInputs.cache
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.exe
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.pdb
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.csprojAssemblyReference.cache
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\_0610GuessAWord.FormMain.resources
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\GuessAWord.Properties.Resources.resources
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.csproj.GenerateResource.cache
+Z:\Ridgewater C#\11GuessAWord\0610GuessAWord\obj\Debug\0610GuessAWord.csproj.CoreCompileInputs.cache

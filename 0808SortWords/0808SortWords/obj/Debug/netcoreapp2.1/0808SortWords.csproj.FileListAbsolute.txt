@@ -1,0 +1,11 @@
+Z:\Ridgewater C#\0808SortWords\0808SortWords\bin\Debug\netcoreapp2.1\0808SortWords.deps.json
+Z:\Ridgewater C#\0808SortWords\0808SortWords\bin\Debug\netcoreapp2.1\0808SortWords.runtimeconfig.json
+Z:\Ridgewater C#\0808SortWords\0808SortWords\bin\Debug\netcoreapp2.1\0808SortWords.runtimeconfig.dev.json
+Z:\Ridgewater C#\0808SortWords\0808SortWords\bin\Debug\netcoreapp2.1\0808SortWords.dll
+Z:\Ridgewater C#\0808SortWords\0808SortWords\bin\Debug\netcoreapp2.1\0808SortWords.pdb
+Z:\Ridgewater C#\0808SortWords\0808SortWords\obj\Debug\netcoreapp2.1\0808SortWords.csprojAssemblyReference.cache
+Z:\Ridgewater C#\0808SortWords\0808SortWords\obj\Debug\netcoreapp2.1\0808SortWords.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\0808SortWords\0808SortWords\obj\Debug\netcoreapp2.1\0808SortWords.AssemblyInfoInputs.cache
+Z:\Ridgewater C#\0808SortWords\0808SortWords\obj\Debug\netcoreapp2.1\0808SortWords.AssemblyInfo.cs
+Z:\Ridgewater C#\0808SortWords\0808SortWords\obj\Debug\netcoreapp2.1\0808SortWords.dll
+Z:\Ridgewater C#\0808SortWords\0808SortWords\obj\Debug\netcoreapp2.1\0808SortWords.pdb

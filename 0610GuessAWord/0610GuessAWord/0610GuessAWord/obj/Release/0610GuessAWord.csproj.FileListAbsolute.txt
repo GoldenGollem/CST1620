@@ -1,0 +1,9 @@
+a:\RW\0610GuessAWord\0610GuessAWord\bin\Release\0610GuessAWord.exe.config
+a:\RW\0610GuessAWord\0610GuessAWord\bin\Release\0610GuessAWord.exe
+a:\RW\0610GuessAWord\0610GuessAWord\bin\Release\0610GuessAWord.pdb
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Release\_0610GuessAWord.FormMain.resources
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Release\_0610GuessAWord.Properties.Resources.resources
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Release\0610GuessAWord.csproj.GenerateResource.cache
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Release\0610GuessAWord.csproj.CoreCompileInputs.cache
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Release\0610GuessAWord.exe
+a:\RW\0610GuessAWord\0610GuessAWord\obj\Release\0610GuessAWord.pdb

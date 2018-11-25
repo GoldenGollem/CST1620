@@ -1,0 +1,7 @@
+Z:\Ridgewater C#\07Test1\07Test1\bin\Debug\07Test1.exe.config
+Z:\Ridgewater C#\07Test1\07Test1\bin\Debug\07Test1.exe
+Z:\Ridgewater C#\07Test1\07Test1\bin\Debug\07Test1.pdb
+Z:\Ridgewater C#\07Test1\07Test1\obj\Debug\07Test1.csprojAssemblyReference.cache
+Z:\Ridgewater C#\07Test1\07Test1\obj\Debug\07Test1.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\07Test1\07Test1\obj\Debug\07Test1.exe
+Z:\Ridgewater C#\07Test1\07Test1\obj\Debug\07Test1.pdb

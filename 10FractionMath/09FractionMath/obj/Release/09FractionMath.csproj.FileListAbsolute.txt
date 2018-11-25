@@ -1,0 +1,9 @@
+Z:\Ridgewater C#\09FractionMath\09FractionMath\bin\Release\09FractionMath.exe.config
+Z:\Ridgewater C#\09FractionMath\09FractionMath\bin\Release\09FractionMath.exe
+Z:\Ridgewater C#\09FractionMath\09FractionMath\bin\Release\09FractionMath.pdb
+Z:\Ridgewater C#\09FractionMath\09FractionMath\obj\Release\_09FractionMath.FormMain.resources
+Z:\Ridgewater C#\09FractionMath\09FractionMath\obj\Release\_09FractionMath.Properties.Resources.resources
+Z:\Ridgewater C#\09FractionMath\09FractionMath\obj\Release\09FractionMath.csproj.GenerateResource.cache
+Z:\Ridgewater C#\09FractionMath\09FractionMath\obj\Release\09FractionMath.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\09FractionMath\09FractionMath\obj\Release\09FractionMath.exe
+Z:\Ridgewater C#\09FractionMath\09FractionMath\obj\Release\09FractionMath.pdb

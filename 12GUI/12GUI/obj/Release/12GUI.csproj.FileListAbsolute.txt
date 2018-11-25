@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\12GUI\12GUI\bin\Release\12GUI.exe.config
+C:\Users\Administrator\source\repos\12GUI\12GUI\bin\Release\12GUI.exe
+C:\Users\Administrator\source\repos\12GUI\12GUI\bin\Release\12GUI.pdb
+C:\Users\Administrator\source\repos\12GUI\12GUI\obj\Release\_12GUI.FormPizza.resources
+C:\Users\Administrator\source\repos\12GUI\12GUI\obj\Release\_12GUI.FormHelp.resources
+C:\Users\Administrator\source\repos\12GUI\12GUI\obj\Release\_12GUI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\12GUI\12GUI\obj\Release\12GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\12GUI\12GUI\obj\Release\12GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\12GUI\12GUI\obj\Release\12GUI.exe
+C:\Users\Administrator\source\repos\12GUI\12GUI\obj\Release\12GUI.pdb

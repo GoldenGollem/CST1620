@@ -1,0 +1,10 @@
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\bin\Release\netcoreapp2.1\08OptionalParameter.deps.json
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\bin\Release\netcoreapp2.1\08OptionalParameter.runtimeconfig.json
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\bin\Release\netcoreapp2.1\08OptionalParameter.runtimeconfig.dev.json
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\bin\Release\netcoreapp2.1\08OptionalParameter.dll
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\bin\Release\netcoreapp2.1\08OptionalParameter.pdb
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\obj\Release\netcoreapp2.1\08OptionalParameter.csproj.CoreCompileInputs.cache
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\obj\Release\netcoreapp2.1\08OptionalParameter.AssemblyInfoInputs.cache
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\obj\Release\netcoreapp2.1\08OptionalParameter.AssemblyInfo.cs
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\obj\Release\netcoreapp2.1\08OptionalParameter.dll
+Z:\Ridgewater C#\08OptionalParameter\08OptionalParameter\obj\Release\netcoreapp2.1\08OptionalParameter.pdb
